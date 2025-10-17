@@ -18,21 +18,7 @@ Solana • Rust • Anchor • Next.js • Phantom Wallet • TailwindCSS • We
 
 🎓 Whether you're a Web3 developer or exploring Solana DApps for the first time, this project is a great deep dive into real-world blockchain development!
 
-#Solana #ICO #Anchor #Rust #Nextjs #SolanaDevelopment #CryptoDapp #Web3 #SolanaICO
 
-## Project Overview
-
-![alt text](https://www.daulathussain.com/wp-content/uploads/2025/04/Build-Deploy-Advanced-Solana-ICO-PreSale-DApp-Rust-Anchor-Framework-Next.js-Solana-ICO-Project.jpg)
-
-## Instruction
-
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
-
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-advanced-solana-ico-presale-dapp)
-
-#### Setup Video
-
-- [Final Code Setup video](https://youtu.be/a6MU06oD2kY?si=Gx37OZ5yoiHQH_Oi)
 
 #### Deploying Dapp
 
@@ -126,12 +112,6 @@ If you download the final source code then you can follow the following instruct
   OPEN: SOLANA PLAYGROUND ID
   URL:https://beta.solpg.io/
 ```
-
-## Important Links
-
-- [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
-- [Support Creator](https://bit.ly/Support-Creator)
-- [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
 
 ## Authors
 
